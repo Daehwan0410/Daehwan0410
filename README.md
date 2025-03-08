@@ -20,25 +20,25 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C#-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C#&logoColor=white"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png&logo=C#&logoColor=white"/>
   <br/>
   
   ### Library
   <!--PyTorch-->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <!--Tensorflow-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
   <!--Devexpress-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Devexpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=Devexpress&logoColor=white"/>
   <br/>
   
   ### Framework
   <!--.Net-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=.Net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.Net&logoColor=white"/>
   <!--Node.js-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
   <!--Flutter-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Flutter&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
@@ -48,9 +48,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daehwan0410)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daehwan0410)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
