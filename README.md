@@ -20,7 +20,8 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C#-->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png&logo=C#&logoColor=white"/>
+  ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="200">
   <br/>
   
   ### Library
